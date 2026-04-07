@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 27960,
+  "port": 8888,
+  "root_dir": "D:\\resoucesforlearnning\\resources\\learn_for_create\\langchain1_0_tour\\langchain-academy-main",
+  "secure": false,
+  "sock": "",
+  "token": "59ce7d7752840c942e4d7273752d9a28b8b68e8fcdfe34d7",
+  "url": "http://localhost:8888/",
+  "version": "2.10.0"
+}

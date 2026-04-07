@@ -1,0 +1,13 @@
+{
+  "shell_port": 65204,
+  "iopub_port": 65205,
+  "stdin_port": 65206,
+  "control_port": 65208,
+  "hb_port": 65207,
+  "ip": "127.0.0.1",
+  "key": "03c97586-4341b8030391a52eb4c8d891",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "D:\\resoucesforlearnning\\resources\\learn_for_create\\langchain1_0_tour\\langchain-academy-main\\module-0\\basics.ipynb"
+}
